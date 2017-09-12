@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Qpreto" size="1.000000 1.587413" />
+    <ImageTarget name="Qpau" size="1.000000 1.555035" />
+    <ImageTarget name="Qdiamante" size="1.000000 1.622276" />
+    <ImageTarget name="Qcopas" size="1.000000 1.579196" />
+    <ImageTarget name="Kpreto" size="1.000000 1.571429" />
+    <ImageTarget name="Kpau" size="1.000000 1.601415" />
+    <ImageTarget name="Kdiamante" size="1.000000 1.608491" />
+    <ImageTarget name="Kcopas" size="1.000000 1.601852" />
+    <ImageTarget name="Jpreto" size="1.000000 1.554273" />
+    <ImageTarget name="Jpau" size="1.000000 1.543779" />
+    <ImageTarget name="Jdiamante" size="1.000000 1.537209" />
+    <ImageTarget name="Jcopas" size="1.000000 1.555288" />
+    <ImageTarget name="coringa" size="1.000000 1.581948" />
+    <ImageTarget name="Apreto" size="1.000000 1.467533" />
+    <ImageTarget name="Apau" size="1.000000 1.561485" />
+    <ImageTarget name="GameStation" size="1.000000 0.620214" />
+    <ImageTarget name="marco" size="1.000000 0.550624" />
+    <ImageTarget name="nihongo" size="1.000000 1.416667" />
+  </Tracking>
+</QCARConfig>
